@@ -1,0 +1,5 @@
+ *.gitignore
+.terraform.lock.hcl
+ .terraorm/
+  
+.terraform/
